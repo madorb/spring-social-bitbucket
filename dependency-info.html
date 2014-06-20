@@ -44,11 +44,11 @@
                     
                                           <h5>Project Documentation</h5>
                   <ul>
-                                                                                                                                                                                                                                                                                    <li class="expanded">
+                                                                                                                                                                                                                                                                                                                        <li class="expanded">
                           <a href="project-info.html" title="Project Information">Project Information</a>
                     <ul>
                       <li class="none">
-                          <a href="integration.html" title="Continuous Integration">Continuous Integration</a>
+                          <a href="index.html" title="About">About</a>
             </li>
                       <li class="none">
                           <a href="dependencies.html" title="Dependencies">Dependencies</a>
@@ -60,13 +60,13 @@
                           <a href="dependency-management.html" title="Dependency Management">Dependency Management</a>
             </li>
                       <li class="none">
-                          <a href="index.html" title="About">About</a>
+                          <a href="distribution-management.html" title="Distribution Management">Distribution Management</a>
             </li>
                       <li class="none">
-                          <a href="issue-tracking.html" title="Issue Tracking">Issue Tracking</a>
+                          <a href="team-list.html" title="Project Team">Project Team</a>
             </li>
                       <li class="none">
-                          <a href="license.html" title="Project License">Project License</a>
+                          <a href="mail-lists.html" title="Mailing Lists">Mailing Lists</a>
             </li>
                       <li class="none">
                           <a href="plugin-management.html" title="Plugin Management">Plugin Management</a>
@@ -75,7 +75,13 @@
                           <a href="plugins.html" title="Project Plugins">Project Plugins</a>
             </li>
                       <li class="none">
-                          <a href="team-list.html" title="Project Team">Project Team</a>
+                          <a href="integration.html" title="Continuous Integration">Continuous Integration</a>
+            </li>
+                      <li class="none">
+                          <a href="issue-tracking.html" title="Issue Tracking">Issue Tracking</a>
+            </li>
+                      <li class="none">
+                          <a href="license.html" title="Project License">Project License</a>
             </li>
                       <li class="none">
                           <a href="source-repository.html" title="Source Repository">Source Repository</a>
@@ -104,38 +110,38 @@
 <h3>Apache Maven<a name="Apache_Maven"></a></h3><a name="Apache_Maven"></a>
 <div class="source">
 <pre>&lt;dependency&gt;
-  &lt;groupId&gt;org.springframework.social&lt;/groupId&gt;
+  &lt;groupId&gt;ch.ledcom.spring-social&lt;/groupId&gt;
   &lt;artifactId&gt;spring-social-bitbucket&lt;/artifactId&gt;
   &lt;version&gt;1.0.0-SNAPSHOT&lt;/version&gt;
 &lt;/dependency&gt;</pre></div></div>
 <div class="section">
 <h3>Apache Buildr<a name="Apache_Buildr"></a></h3><a name="Apache_Buildr"></a>
 <div class="source">
-<pre>'org.springframework.social:spring-social-bitbucket:jar:1.0.0-SNAPSHOT'</pre></div></div>
+<pre>'ch.ledcom.spring-social:spring-social-bitbucket:jar:1.0.0-SNAPSHOT'</pre></div></div>
 <div class="section">
 <h3>Apache Ant<a name="Apache_Ant"></a></h3><a name="Apache_Ant"></a>
 <div class="source">
-<pre>&lt;dependency org=&quot;org.springframework.social&quot; name=&quot;spring-social-bitbucket&quot; rev=&quot;1.0.0-SNAPSHOT&quot;&gt;
+<pre>&lt;dependency org=&quot;ch.ledcom.spring-social&quot; name=&quot;spring-social-bitbucket&quot; rev=&quot;1.0.0-SNAPSHOT&quot;&gt;
   &lt;artifact name=&quot;spring-social-bitbucket&quot; type=&quot;jar&quot; /&gt;
 &lt;/dependency&gt;</pre></div></div>
 <div class="section">
 <h3>Groovy Grape<a name="Groovy_Grape"></a></h3><a name="Groovy_Grape"></a>
 <div class="source">
 <pre>@Grapes(
-@Grab(group='org.springframework.social', module='spring-social-bitbucket', version='1.0.0-SNAPSHOT')
+@Grab(group='ch.ledcom.spring-social', module='spring-social-bitbucket', version='1.0.0-SNAPSHOT')
 )</pre></div></div>
 <div class="section">
 <h3>Grails<a name="Grails"></a></h3><a name="Grails"></a>
 <div class="source">
-<pre>compile 'org.springframework.social:spring-social-bitbucket:1.0.0-SNAPSHOT'</pre></div></div>
+<pre>compile 'ch.ledcom.spring-social:spring-social-bitbucket:1.0.0-SNAPSHOT'</pre></div></div>
 <div class="section">
 <h3>Leiningen<a name="Leiningen"></a></h3><a name="Leiningen"></a>
 <div class="source">
-<pre>[org.springframework.social/spring-social-bitbucket &quot;1.0.0-SNAPSHOT&quot;]</pre></div></div>
+<pre>[ch.ledcom.spring-social/spring-social-bitbucket &quot;1.0.0-SNAPSHOT&quot;]</pre></div></div>
 <div class="section">
 <h3>SBT<a name="SBT"></a></h3><a name="SBT"></a>
 <div class="source">
-<pre>libraryDependencies += &quot;org.springframework.social&quot; %% &quot;spring-social-bitbucket&quot; % &quot;1.0.0-SNAPSHOT&quot;</pre></div></div></div>
+<pre>libraryDependencies += &quot;ch.ledcom.spring-social&quot; %% &quot;spring-social-bitbucket&quot; % &quot;1.0.0-SNAPSHOT&quot;</pre></div></div></div>
       </div>
     </div>
     <div class="clear">
@@ -143,8 +149,9 @@
     </div>
     <div id="footer">
       <div class="xright">
-              Copyright &#169;                   2012-2014.
-          All Rights Reserved.      
+              Copyright &#169;                    2012-2014
+                        <a href="http://ledcom.ch/">LedCom</a>.
+            All Rights Reserved.      
                     
                   </div>
       <div class="clear">
