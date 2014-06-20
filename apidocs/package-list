@@ -1,0 +1,9 @@
+org.springframework.social.bitbucket.api
+org.springframework.social.bitbucket.api.impl
+org.springframework.social.bitbucket.api.v2
+org.springframework.social.bitbucket.api.v2.impl
+org.springframework.social.bitbucket.api.v2.payload
+org.springframework.social.bitbucket.config.support
+org.springframework.social.bitbucket.config.xml
+org.springframework.social.bitbucket.connect
+org.springframework.social.bitbucket.security
