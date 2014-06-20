@@ -46,20 +46,6 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.PrivilegeTemplate.java">org/springframework/social/bitbucket/api/impl/PrivilegeTemplate.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  18
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.payload.package-info.java">org/springframework/social/bitbucket/api/v2/payload/package-info.java</a>
                 </td>
                 <td>
@@ -111,21 +97,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  45
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.config.xml.BitBucketNamespaceHandler.java">org/springframework/social/bitbucket/config/xml/BitBucketNamespaceHandler.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
+                  44
                 </td>
               </tr>
                           <tr>
@@ -144,20 +116,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.security.BitBucketAuthenticationService.java">org/springframework/social/bitbucket/security/BitBucketAuthenticationService.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  5
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketChangeset.java">org/springframework/social/bitbucket/api/BitBucketChangeset.java</a>
                 </td>
                 <td>
@@ -168,20 +126,6 @@ under the License.
                 </td>
                 <td>
                   37
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.UserOperations.java">org/springframework/social/bitbucket/api/UserOperations.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
                 </td>
               </tr>
                           <tr>
@@ -200,20 +144,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketChangesets.java">org/springframework/social/bitbucket/api/BitBucketChangesets.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  12
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.payload.BitBucketForkPolicy.java">org/springframework/social/bitbucket/api/v2/payload/BitBucketForkPolicy.java</a>
                 </td>
                 <td>
@@ -224,6 +154,20 @@ under the License.
                 </td>
                 <td>
                   8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketChangesets.java">org/springframework/social/bitbucket/api/BitBucketChangesets.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
                 </td>
               </tr>
                           <tr>
@@ -242,20 +186,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.payload.Link.java">org/springframework/social/bitbucket/api/v2/payload/Link.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  11
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.impl.BitBucketV2Template.java">org/springframework/social/bitbucket/api/v2/impl/BitBucketV2Template.java</a>
                 </td>
                 <td>
@@ -270,20 +200,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.config.support.BitBucketApiHelper.java">org/springframework/social/bitbucket/config/support/BitBucketApiHelper.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  13
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.connect.BitBucketServiceProvider.java">org/springframework/social/bitbucket/connect/BitBucketServiceProvider.java</a>
                 </td>
                 <td>
@@ -293,63 +209,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucket.java">org/springframework/social/bitbucket/api/BitBucket.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.AbstractBitBucketOperations.java">org/springframework/social/bitbucket/api/impl/AbstractBitBucketOperations.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  19
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.payload.BitBucketV2Repository.java">org/springframework/social/bitbucket/api/v2/payload/BitBucketV2Repository.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  27
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.impl.package-info.java">org/springframework/social/bitbucket/api/v2/impl/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
+                  8
                 </td>
               </tr>
                           <tr>
@@ -368,21 +228,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.RepoPrivilege.java">org/springframework/social/bitbucket/api/RepoPrivilege.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  10
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.connect.BitBucketAdapter.java">org/springframework/social/bitbucket/connect/BitBucketAdapter.java</a>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.payload.BitBucketV2Account.java">org/springframework/social/bitbucket/api/v2/payload/BitBucketV2Account.java</a>
                 </td>
                 <td>
                   0
@@ -410,34 +256,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.payload.BitBucketV2Account.java">org/springframework/social/bitbucket/api/v2/payload/BitBucketV2Account.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  11
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.BitBucketTemplate.java">org/springframework/social/bitbucket/api/impl/BitBucketTemplate.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  14
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketFileMetadata.java">org/springframework/social/bitbucket/api/BitBucketFileMetadata.java</a>
                 </td>
                 <td>
@@ -448,20 +266,6 @@ under the License.
                 </td>
                 <td>
                   12
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.impl.UserV2Template.java">org/springframework/social/bitbucket/api/v2/impl/UserV2Template.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  15
                 </td>
               </tr>
                           <tr>
@@ -490,20 +294,6 @@ under the License.
                 </td>
                 <td>
                   11
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.TeamV2Operations.java">org/springframework/social/bitbucket/api/v2/TeamV2Operations.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  12
                 </td>
               </tr>
                           <tr>
@@ -564,7 +354,203 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.package-info.java">org/springframework/social/bitbucket/api/v2/package-info.java</a>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.UTCDateDeserializer.java">org/springframework/social/bitbucket/api/impl/UTCDateDeserializer.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketSCM.java">org/springframework/social/bitbucket/api/BitBucketSCM.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketPrivilege.java">org/springframework/social/bitbucket/api/BitBucketPrivilege.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketDirectory.java">org/springframework/social/bitbucket/api/BitBucketDirectory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.config.xml.BitBucketConfigBeanDefinitionParser.java">org/springframework/social/bitbucket/config/xml/BitBucketConfigBeanDefinitionParser.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.PrivilegeTemplate.java">org/springframework/social/bitbucket/api/impl/PrivilegeTemplate.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  18
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.config.xml.BitBucketNamespaceHandler.java">org/springframework/social/bitbucket/config/xml/BitBucketNamespaceHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.security.BitBucketAuthenticationService.java">org/springframework/social/bitbucket/security/BitBucketAuthenticationService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.UserOperations.java">org/springframework/social/bitbucket/api/UserOperations.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.payload.Link.java">org/springframework/social/bitbucket/api/v2/payload/Link.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.config.support.BitBucketApiHelper.java">org/springframework/social/bitbucket/config/support/BitBucketApiHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucket.java">org/springframework/social/bitbucket/api/BitBucket.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.AbstractBitBucketOperations.java">org/springframework/social/bitbucket/api/impl/AbstractBitBucketOperations.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  19
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.payload.BitBucketV2Repository.java">org/springframework/social/bitbucket/api/v2/payload/BitBucketV2Repository.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  27
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.impl.package-info.java">org/springframework/social/bitbucket/api/v2/impl/package-info.java</a>
                 </td>
                 <td>
                   0
@@ -578,7 +564,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.UTCDateDeserializer.java">org/springframework/social/bitbucket/api/impl/UTCDateDeserializer.java</a>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.RepoPrivilege.java">org/springframework/social/bitbucket/api/RepoPrivilege.java</a>
                 </td>
                 <td>
                   0
@@ -587,7 +573,77 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.connect.BitBucketAdapter.java">org/springframework/social/bitbucket/connect/BitBucketAdapter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.impl.UserV2Template.java">org/springframework/social/bitbucket/api/v2/impl/UserV2Template.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  15
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.BitBucketTemplate.java">org/springframework/social/bitbucket/api/impl/BitBucketTemplate.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  15
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.TeamV2Operations.java">org/springframework/social/bitbucket/api/v2/TeamV2Operations.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.package-info.java">org/springframework/social/bitbucket/api/v2/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
               </tr>
                           <tr>
@@ -620,20 +676,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketSCM.java">org/springframework/social/bitbucket/api/BitBucketSCM.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketFile.java">org/springframework/social/bitbucket/api/BitBucketFile.java</a>
                 </td>
                 <td>
@@ -658,48 +700,6 @@ under the License.
                 </td>
                 <td>
                   43
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.config.xml.BitBucketConfigBeanDefinitionParser.java">org/springframework/social/bitbucket/config/xml/BitBucketConfigBeanDefinitionParser.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketDirectory.java">org/springframework/social/bitbucket/api/BitBucketDirectory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  12
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.BitBucketPrivilege.java">org/springframework/social/bitbucket/api/BitBucketPrivilege.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
                 </td>
               </tr>
                           <tr>
