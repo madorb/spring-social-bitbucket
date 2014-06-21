@@ -26,7 +26,7 @@ under the License.
     <copyright>&#169;2012 - 2014 LedCom</copyright>
     <item>
       <title>File: 64,
-             Errors: 857,
+             Errors: 23,
              Warnings: 0,
              Infos: 0
       </title>
@@ -55,7 +55,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  0
                 </td>
               </tr>
                           <tr>
@@ -69,7 +69,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  4
+                  0
                 </td>
               </tr>
                           <tr>
@@ -83,7 +83,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  9
+                  0
                 </td>
               </tr>
                           <tr>
@@ -97,7 +97,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  11
+                  0
                 </td>
               </tr>
                           <tr>
@@ -111,7 +111,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  39
+                  1
                 </td>
               </tr>
                           <tr>
@@ -125,7 +125,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  0
                 </td>
               </tr>
                           <tr>
@@ -139,7 +139,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  0
                 </td>
               </tr>
                           <tr>
@@ -153,7 +153,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  28
+                  2
                 </td>
               </tr>
                           <tr>
@@ -167,7 +167,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  0
                 </td>
               </tr>
                           <tr>
@@ -181,7 +181,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  9
+                  0
                 </td>
               </tr>
                           <tr>
@@ -195,7 +195,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  9
+                  0
                 </td>
               </tr>
                           <tr>
@@ -209,7 +209,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  9
+                  0
                 </td>
               </tr>
                           <tr>
@@ -223,7 +223,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  25
+                  1
                 </td>
               </tr>
                           <tr>
@@ -237,7 +237,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  1
                 </td>
               </tr>
                           <tr>
@@ -251,7 +251,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  8
+                  0
                 </td>
               </tr>
                           <tr>
@@ -265,7 +265,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  0
                 </td>
               </tr>
                           <tr>
@@ -279,7 +279,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  80
+                  1
                 </td>
               </tr>
                           <tr>
@@ -293,7 +293,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  24
+                  1
                 </td>
               </tr>
                           <tr>
@@ -307,7 +307,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  12
+                  0
                 </td>
               </tr>
                           <tr>
@@ -321,7 +321,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  0
                 </td>
               </tr>
                           <tr>
@@ -335,7 +335,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  9
+                  0
                 </td>
               </tr>
                           <tr>
@@ -349,7 +349,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  0
                 </td>
               </tr>
                           <tr>
@@ -363,7 +363,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  12
+                  0
                 </td>
               </tr>
                           <tr>
@@ -377,21 +377,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  22
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.PrivilegeOperations.java">org/springframework/social/bitbucket/api/PrivilegeOperations.java</a>
-                </td>
-                <td>
                   0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
                 </td>
               </tr>
                           <tr>
@@ -405,7 +391,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.PrivilegeOperations.java">org/springframework/social/bitbucket/api/PrivilegeOperations.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
               </tr>
                           <tr>
@@ -419,7 +419,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  33
+                  0
                 </td>
               </tr>
                           <tr>
@@ -433,21 +433,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  40
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.UTCDateDeserializer.java">org/springframework/social/bitbucket/api/impl/UTCDateDeserializer.java</a>
-                </td>
-                <td>
                   0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  5
                 </td>
               </tr>
                           <tr>
@@ -461,7 +447,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.UTCDateDeserializer.java">org/springframework/social/bitbucket/api/impl/UTCDateDeserializer.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
               </tr>
                           <tr>
@@ -475,7 +475,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  0
                 </td>
               </tr>
                           <tr>
@@ -489,21 +489,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  9
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.config.xml.BitBucketConfigBeanDefinitionParser.java">org/springframework/social/bitbucket/config/xml/BitBucketConfigBeanDefinitionParser.java</a>
-                </td>
-                <td>
                   0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  5
                 </td>
               </tr>
                           <tr>
@@ -517,7 +503,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  4
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.config.xml.BitBucketConfigBeanDefinitionParser.java">org/springframework/social/bitbucket/config/xml/BitBucketConfigBeanDefinitionParser.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
               </tr>
                           <tr>
@@ -531,7 +531,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  30
+                  0
                 </td>
               </tr>
                           <tr>
@@ -545,7 +545,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  18
+                  0
                 </td>
               </tr>
                           <tr>
@@ -559,7 +559,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  0
                 </td>
               </tr>
                           <tr>
@@ -573,7 +573,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  31
+                  0
                 </td>
               </tr>
                           <tr>
@@ -587,7 +587,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  1
                 </td>
               </tr>
                           <tr>
@@ -601,7 +601,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  6
+                  1
                 </td>
               </tr>
                           <tr>
@@ -615,7 +615,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  4
+                  0
                 </td>
               </tr>
                           <tr>
@@ -629,7 +629,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  0
                 </td>
               </tr>
                           <tr>
@@ -643,7 +643,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  12
+                  0
                 </td>
               </tr>
                           <tr>
@@ -657,7 +657,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  13
+                  5
                 </td>
               </tr>
                           <tr>
@@ -671,7 +671,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  4
+                  0
                 </td>
               </tr>
                           <tr>
@@ -685,21 +685,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  20
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.impl.package-info.java">org/springframework/social/bitbucket/api/v2/impl/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
+                  4
                 </td>
               </tr>
                           <tr>
@@ -713,7 +699,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  28
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.v2.impl.package-info.java">org/springframework/social/bitbucket/api/v2/impl/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
               </tr>
                           <tr>
@@ -727,7 +727,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  15
+                  1
                 </td>
               </tr>
                           <tr>
@@ -741,7 +741,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  8
+                  0
                 </td>
               </tr>
                           <tr>
@@ -755,7 +755,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  9
+                  0
                 </td>
               </tr>
                           <tr>
@@ -769,7 +769,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  60
+                  1
                 </td>
               </tr>
                           <tr>
@@ -783,7 +783,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  12
+                  0
                 </td>
               </tr>
                           <tr>
@@ -797,7 +797,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  14
+                  0
                 </td>
               </tr>
                           <tr>
@@ -811,7 +811,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  0
                 </td>
               </tr>
                           <tr>
@@ -825,7 +825,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  11
+                  0
                 </td>
               </tr>
                           <tr>
@@ -839,7 +839,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  0
                 </td>
               </tr>
                           <tr>
@@ -853,7 +853,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  16
+                  0
                 </td>
               </tr>
                           <tr>
@@ -867,21 +867,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.UserTemplate.java">org/springframework/social/bitbucket/api/impl/UserTemplate.java</a>
-                </td>
-                <td>
                   0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  8
                 </td>
               </tr>
                           <tr>
@@ -895,7 +881,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  18
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://gehel.github.com/spring-social-bitbucket/checkstyle.html#org.springframework.social.bitbucket.api.impl.UserTemplate.java">org/springframework/social/bitbucket/api/impl/UserTemplate.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
               </tr>
                           <tr>
@@ -909,7 +909,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  21
+                  1
                 </td>
               </tr>
                           <tr>
@@ -923,7 +923,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  6
+                  0
                 </td>
               </tr>
                           <tr>
@@ -937,7 +937,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  17
+                  0
                 </td>
               </tr>
                       </tbody>
