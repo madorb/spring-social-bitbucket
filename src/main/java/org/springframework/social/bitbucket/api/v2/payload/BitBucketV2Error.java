@@ -24,6 +24,8 @@ import javax.annotation.Nullable;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class BitBucketV2Error extends RuntimeException {
 
+    private static final long serialVersionUID = 1L;
+
     @JsonProperty
     private String message;
 
